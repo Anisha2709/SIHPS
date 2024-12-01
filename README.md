@@ -60,30 +60,29 @@ Government of Gujarat
 2. Backend Technologies:
     •	Node.js
     •	Express.js
-3. Database
+3. Database:
     •	MongoDB
     •	PostgreSQL 
     •	Redis
-4. Real-Time Features and Notifications
+4. Real-Time Features and Notifications:
     •	Socket.IO 
     •	WebSockets
     •	Firebase Cloud Messaging (FCM)
-5. API Integration
+5. API Integration:
     •	Stripe or PayPal API
     •	LinkedIn API
     •	Google Maps API
     •	Zoom API
     •	Social Media Integration
-6. Cloud Infrastructure & Deployment
+6. Cloud Infrastructure & Deployment:
     •	Cloud Providers
     •	Google Cloud Platform (GCP)
-
-7. Security
+7. Security:
     •	SSL/TLS
     •	Two-Factor Authentication (2FA)
     •	Rate Limiting & CAPTCHA
     •	Firewalls & VPN
-8. Development & Version Control
+8. Development & Version Control:
     •	Git
     •	GitHub / GitLab
     •	Visual Studio Code (VS Code)
