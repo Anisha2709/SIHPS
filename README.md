@@ -35,7 +35,7 @@ Government of Gujarat
 
 ## Use Cases
 
-.1 Uses for Alumni
+1. Uses for Alumni
     1.	Professional Networking
     2.	Job Search and Career Advancement
     3.	Mentorship and Knowledge Sharing
